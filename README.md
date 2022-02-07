@@ -1,6 +1,4 @@
 # Stata-Git
-
-# Stata - Git
 > Basic Stata and Git Workflow
 ## Setting Directory
 ```bash
